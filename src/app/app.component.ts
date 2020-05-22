@@ -9,6 +9,7 @@ import { ngModuleJitUrl } from '@angular/compiler';
 })
 export class AppComponent {
   title = 'nduzar';
+  db = 'Default branch'; 
 
 }
 
